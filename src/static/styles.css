@@ -1,3 +1,9 @@
+/* Participant item flex layout */
+.participant-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
 * {
   box-sizing: border-box;
   margin: 0;
